@@ -1,4 +1,4 @@
-# Sustainable-Fishing-Indonesia
+# Sustainable Fishing Indonesia
 Indonesia´s food security is highly dependent on fishing. The words largest archipelago has made efforts to achieve a more sustainable way of fishing. However, challenges such as dependency on harmful subsidies and a lack of monitoring make this difficult.
 
 Idea: Julia Merk
