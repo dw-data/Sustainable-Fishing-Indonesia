@@ -2,7 +2,7 @@
 
 Idea: Julia Merk
 
-Research: Arti Ekawati,Julia Merk
+Research: Arti Ekawati, Julia Merk
 
 Analysis, Visualisation: Julia Merk, Kira Schacht
 
@@ -32,7 +32,7 @@ Further [information](https://reader.elsevier.com/reader/sd/pii/S235234091931061
 
 [More information](https://www.tandfonline.com/doi/full/10.1080/21568316.2019.1686652?scroll=top&needAccess=true) on the governing dynamics of Raja Ampat, the world's most biodiverse protected area
 
-Further details on [fish & seafood consumption](https://ourworldindata.org/grapher/fish-and-seafood-consumption-per-capita?tab=table)in Indonesia and [employment](https://stats.oecd.org/Index.aspx?DataSetCode=FISH_EMPL) in the fisheries sector 
+Further details on [fish & seafood consumption](https://ourworldindata.org/grapher/fish-and-seafood-consumption-per-capita?tab=table) in Indonesia and [employment](https://stats.oecd.org/Index.aspx?DataSetCode=FISH_EMPL) in the fisheries sector 
 
 An [analysis](https://www.nature.com/articles/s41559-018-0499-1.epdf?sharing_token=YmJhfafYmnPVdYUqyEhPQdRgN0jAjWel9jnR3ZoTv0PRh-MpU0vTRaPU4XNu_ty6JhCd4PfdcfEhe08n6_AUss8Rh5T4CPDQ8b3n9QGPC3bJBQpriMw-cjMNqONkJW-5-18kRxN9hRAp64qlObJh_TWA-00uMQzQxbEZZl3u3jHeJ5oHRE7tg_nC2cEboc9qQqxNGVEnTMGqf7mMo85aG_cU4F3u0o7W9QhDmDrvuJs=&tracking_referrer=news.mongabay.com) of the Indonesian government's approach to IUU activities
 
