@@ -10,7 +10,7 @@ Writing: Julia Merk
 
 Editing: Anke Rasper, Gianna-Carina Gruen
 
-You can read the story here in [English](dw.com/a-) and [German](dw.com/a-) 
+You can read the story here in [English](dw.com/a-60134067) and [German](dw.com/a-60134044) 
 
 # Data Sources 
 
